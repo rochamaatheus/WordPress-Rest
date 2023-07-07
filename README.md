@@ -1,12 +1,17 @@
 # Rest
 
-![Site Demo](site_demo.png)
+![Capa_Site](https://i.imgur.com/z9PH9Os.png)
 
 Este site é um projeto desenvolvido utilizando o WordPress como CMS. Trata-se de um tema personalizado para um restaurante, com o objetivo de oferecer uma solução prática e intuitiva para a personalização do conteúdo. Os usuários podem facilmente modificar os textos do site, como descrições de pratos, informações de contato e horários de funcionamento, utilizando o plugin Advanced Custom Fields (ACF).
 
-![Logo](logo.png)
+<div>
+  <img align="center" alt="Rocha-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="Rocha-WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
+</div>
 
 🚀 Linguagem utilizada: PHP
+
+📋 CMS utilizado: WordPress
 
 ---
 
